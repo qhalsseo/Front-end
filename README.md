@@ -1,4 +1,4 @@
-# :office: 기업형 포트폴리오 사이트
+# :office: 웹사이트 리뉴얼 포트폴리오 사이트
 
 **사이트 주소** : https://qhals8775.cafe24.com/StarShip/
 
