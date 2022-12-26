@@ -3,7 +3,7 @@
 **사이트 주소** : https://qhals8775.cafe24.com/StarShip/
 
 ## :pencil: UI
-- 시안 제작 : Affinity Photo 사용
+- 시안 제작 : StarShip Entertainment 웹페이지 참고
 
 - 그리드
 	- 컨테이너 1132px
